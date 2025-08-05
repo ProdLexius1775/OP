@@ -13,3 +13,9 @@
 ### Gameplay Screen 2
 
 <img width="722" height="404" alt="Image" src="https://github.com/user-attachments/assets/22581bea-2015-42fc-ad71-40f1bea73606" />
+
+<br>
+
+### Gameplay Screen 3
+
+<img width="728" height="397" alt="Image" src="https://github.com/user-attachments/assets/c9f46082-d061-46d4-b342-66552eb1c929" />
